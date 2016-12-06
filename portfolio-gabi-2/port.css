@@ -1,0 +1,48 @@
+.jumbotron {
+	background-image: url(007.png);
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 453px;
+}
+.container-fluid {
+	background-color:#810508;
+}
+
+.jumbotron h1 {color:#FFFFFF; font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif
+}
+
+.jumbotron p {color:#FFFFFF; font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif
+}
+
+
+.container-fluid h3 {
+	color:#FFFFFF; font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif
+}
+
+.container-fluid p {
+	color:#FFFFFF; font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif
+}
+
+
+.col-lg-6 .col-lg-offset-3 .panel-heading {backgrcolor:#D0282A;}
+	
+
+.nav-pills>li.active>a {
+			    background-color: #000000;
+}
+
+	
+.btn-primary {
+	background-color: #000000;
+}
+	
+.nav-pills > li.active > a {
+    background-color: #7E2424;
+}
+	
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+    color: #FFF;
+    background-color: #7E2424;
+}
+
